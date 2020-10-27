@@ -2,7 +2,7 @@
 The aim of this project is to visualize the data in react.js. The Chart.js library of javaScript have great support in react. 
 
 ---
-You can find the detail in my Medium article published in The Startup 
+You can find the detail in my Medium article published in "The Startup"
 
 https://medium.com/swlh/data-visualization-with-react-chart-js-be5e238bc302
 
