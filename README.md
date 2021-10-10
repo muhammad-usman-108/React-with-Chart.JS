@@ -9,7 +9,7 @@ https://medium.com/swlh/data-visualization-with-react-chart-js-be5e238bc302
 ### React 
 is an open-source JavaScript library, maintained by Facebook for building user interfaces or UI components.
 ### Chart.js
-is a free open-source JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie, bubble, radar, polar, and scatter.
+is a free open-source JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie, bubble, radar, polar, & scatter.
 
 
 ### Pre-requisites
